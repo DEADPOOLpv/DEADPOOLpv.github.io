@@ -1,7 +1,7 @@
 Tetris <br>
 This repository contains a homebrew Tetris game.
 
-![Game_Screenshot](Game_Screenshot.jpg.jpg)
+![Game_Screenshot](Game_Screenshot.jpg)
 
 About the Project:<br>
 This project is a tribute to the classic Tetris game, implemented for the Game Boy. It offers a faithful recreation of the core gameplay mechanics with a touch of nostalgia.
